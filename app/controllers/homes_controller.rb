@@ -1,3 +1,10 @@
 class HomesController < ApplicationController
-  root to: "homes#top"
+  def 
+    top 
+  end 
+  
+  def 
+    about 
+  end 
+  
 end
